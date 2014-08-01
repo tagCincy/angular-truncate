@@ -1,12 +1,12 @@
 {
   "name": "angular-truncate",
-  "description": "Angular Truncate - Ellipsis for your templates",
+  "description": "Mirror of Brian Mathews' (sparkalow) angular-truncate with version tag for Rails Assets use.",
   "version": "0.1.0",
-  "homepage": "http://sparkalow.github.com/angular-truncate",
-  "author": "Brian Mathews (sparkalow)",
+  "homepage": "http://github.com/tagCincy/angular-truncate",
+  "author": "tagCincy",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sparkalow/angular-truncate.git"
+    "url": "git://github.com/tagCincy/angular-truncate"
   },
   "engines": {
     "node": ">= 0.8"
